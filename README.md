@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NorfarahinJamaludin
-- 👀 I’m interested in ... Data Analyst, Data Analysis
+- 👀 I’m interested in ... Data Analyst, Data Analysis, Data Analytic
 - 🌱 I’m currently learning ... SQL, Python, Tableau, Spreadsheet, Excel, PowerBi, R programming
 - 💞️ I’m looking to collaborate on ... Portfolio data analyst/ data analysis & project based on data analyst
 - 📫 How to reach me ...  https://www.linkedin.com/in/norfarahin-jamaludin-24b9602a8/
